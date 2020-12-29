@@ -4,9 +4,9 @@ Info
 	Released under public domain license by Domenic Brosh
 
 	This script creates a contact sheet with screenshots
-	from a video file. It is not very efficiant and their
+	from a video file. It is not very efficiant and there
 	may be better commands. But I just needed a quick and 
-  dirty script.
+  	dirty script.
 
 Prerequisites
 	The following binarys must exist in the Path environment variable:
