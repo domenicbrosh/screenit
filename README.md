@@ -16,3 +16,9 @@ Screenshot all files in a given folder
 ```powershell
 .\screenit.ps1 -InputDirectory C:\temp\movies -Width 3 -Height 3
 ```
+
+# Prerequisites
+The following binarys must exist in the Path environment variable:
+
+* ffmpeg.exe
+* ffprobe.exe
