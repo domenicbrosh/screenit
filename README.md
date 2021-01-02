@@ -22,3 +22,5 @@ The following binarys must exist in the Path environment variable:
 
 * ffmpeg.exe
 * ffprobe.exe
+
+Download win64-gpl.zip from: https://github.com/BtbN/FFmpeg-Builds/releases. Move the bin folder to C:\ and then add C:\bin to the System Path.
